@@ -1,6 +1,6 @@
 # make-menu
 
-Forked branch of bash-menu-generator by [jamiescode](https://github.com/jamiescode/bash-menu-generator). I will be tinkering a function from the example.sh that can be called from another script as a command with default values using flagged overrides.
+Forked branch of bash-menu-generator by [Jamie Cruwys](https://github.com/jamiescode/bash-menu-generator). I will be tinkering a function from the example.sh that can be called from another script as a command with default values using flagged overrides.
 
 The first thing to do is familiarise myself with the way the script works.
 
