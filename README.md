@@ -1,3 +1,9 @@
+# make-menu
+
+Forked branch of bash-menu-generator by [jamiescode](https://github.com/jamiescode/bash-menu-generator). I will be tinkering a function from the example.sh that can be called from another script as a command with default values using flagged overrides.
+
+The first thing to do is familiarise myself with the way the script works.
+
 bash-menu-generator
 =================
 
@@ -30,7 +36,7 @@ Configuration
 =================
 
 - **symbol** - Which character to be used to create the menu.
-- **paddingSymbol** - Character to space and center the text.
+- **paddingSymbol** - Character to space and centre the text.
 - **lineLength** - How wide the menu should be.
 - **charsToOption** - How much padding you want from the sides of the menu.
 - **charsToName** - How much padding you want around the text.
